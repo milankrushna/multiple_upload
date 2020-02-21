@@ -4,13 +4,13 @@ How to upload multiple files using PHP, jQuery, and AJAX
 
 I have written this code which allows the user to upload images/files. The main aspect of this system allows you to upload multiple files one after another with a progress bar, not in one request.
 You have to only select multiple files at once and click on the start button.
-#HTML
+# HTML
 <pre>
-
 <input type="file" id="multiupload" name="uploadFiledd[]" multiple >
 <button type="button" id="upcvr" class="btn btn-primary">Start Upload</button>
 <div id="uploadsts"></div>
 </pre>
+
 #Javascript
 <pre>
 <script>
