@@ -1,4 +1,4 @@
-# Multiple file upload using jQuery And PHP
+# Upload Multiple file using jQuery And PHP
 
 How to upload multiple files using PHP, jQuery, and AJAX
 
